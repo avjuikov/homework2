@@ -18,6 +18,7 @@ if (bonus > 500) {
     bonus = 500;
 }
 System.out.println("Итоговый бонус: " + bonus);
+
 }
 
 }
